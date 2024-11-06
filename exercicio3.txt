@@ -1,4 +1,4 @@
-Digite dois numeros inteiros:
+Digite dois números inteiros:
 num1 = int(input())
 num2 = int(input())
-print("Subtra;\ao:", num1 - num2)
+print("Resultado:", max(num1, num2) - min(num1, num2))
